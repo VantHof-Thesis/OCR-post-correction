@@ -29,4 +29,4 @@
 ## newspaper pages (source: newspapers)
 * Contents: 2k pages from newspapers (both OCR and reOCR, so 4k rows in total).
 * Identifier level: newspaper page
-* Identifier example: DDD_010197037_001.jp2_ocr -> [DDD_010197037] : newspaper volume, [001] : pagenumber] 
+* Identifier example: DDD_010197037_001.jp2_ocr -> [DDD_010197037] : newspaper volume, [001] : pagenumber
