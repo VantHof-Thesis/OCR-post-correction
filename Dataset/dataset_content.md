@@ -3,6 +3,8 @@
 ## Meertsens 17th century newspapers (source: Meertens)
 * Content: 6.425 news articles from the 17th century.
 * URL: None, articles are added to https://www.delpher.nl/nl/kranten. News item: https://www.meertens.knaw.nl/cms/nl/nieuws-agenda/nieuws-overzicht/278-2020/146210-crowdsourcing-maakt-zeventiende-eeuwse-kranten-op-delpher-beter-doorzoekbaar
+* Identifier description: ddd:010728187:mpeg21:a0005 -> [ddd:010728187:mpeg21:] : newspaper volume, [a0005]: article number
+
 
 ## DBNL OCR (source: dbnl)
 * Contents: 219 books.
